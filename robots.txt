@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yousincha.github.io/sitemap-index.xml
+Host: https://yousincha.github.io
